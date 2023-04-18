@@ -1,0 +1,6 @@
+{
+    "name": "rmroz/smtp",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
